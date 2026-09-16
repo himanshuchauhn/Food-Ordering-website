@@ -5,7 +5,7 @@ import Success from "./Pages/Success";
 import Error from "./Pages/Error";
 import Login from "./Pages/Login";
 import Signup from "./Pages/Signup";
-import ProtectedRoute from "./components/ProtectedRoute";
+import ProtectedRoute from "./Components/ProtectedRoute";
 import Layout from "./Components/Layout";
 
 const App = () => {
