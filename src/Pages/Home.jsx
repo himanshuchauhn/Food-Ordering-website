@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "../components/Navbar";
-import CategoryMenu from "../components/CategoryMenu";
-import FoodItems from "../components/FoodItems";
-import Cart from "../components/Cart";
+import Navbar from "../Components/Navbar";
+import CategoryMenu from "../Components/CategoryMenu";
+import FoodItems from "../Components/FoodItems";
+import Cart from "../Components/Cart";
 const Home = () => {
   return (
     <>
